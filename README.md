@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shauryaMalhotra27
+- 👋 Hi, I’m Shaurya
 - 👀 I’m interested in Frontend Development and Designing
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...
